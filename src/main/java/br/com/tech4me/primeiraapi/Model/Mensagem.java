@@ -1,5 +1,6 @@
 package br.com.tech4me.primeiraapi.Model;
 
+
 public class Mensagem {
     private String autor, descricao, categoria;
 
