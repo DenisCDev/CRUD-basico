@@ -4,9 +4,8 @@
 
 ### Ferramentas utilizadas
 
- - VScode
  - Java
  - JDK 11
  - Maven
- - Spring boot
+ - Spring Boot
  - Mongo
