@@ -1,6 +1,6 @@
 # Primeiro API
 
-## Criado para estudo de java na tech4me, projeto galileo
+## Criado para o estudo de java na tech4me, no projeto galileo
 
 ### IDE utilizada
 
