@@ -1,4 +1,4 @@
-# Primeiro API
+# Primeira API
 
 ## Criado para o estudo de java na tech4me, no projeto galileo
 
@@ -6,10 +6,10 @@
 
 Visual Studio Code
 
-### Ferramentas utilizadas
+### Tecnologias utilizadas
 
  - Java
  - JDK 11
  - Maven
- - Spring Boot
+ - Springboot
  - Mongo
